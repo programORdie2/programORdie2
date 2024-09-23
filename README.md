@@ -12,6 +12,7 @@ I'm a fullstack dev who loves spending time coding new cool (or useless) project
 
 ## Contact me
 [![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/programordie)
+[![Medium](https://miro.medium.com/v2/resize:fill:48:48/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156)](https://medium.com/@programordie)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/programordie2)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/qnKeb3zChH)
 
