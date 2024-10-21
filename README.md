@@ -2,10 +2,10 @@
 I'm a fullstack dev who loves spending time coding new cool (or useless) projects.
 
 ## I'm good with
-[![Good Skills](https://skillicons.dev/icons?i=typescript,bun,nodejs,py,html,js,css,tailwind)](https://github.com/programordie2)
+[![Good Skills](https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind,py,js,css)](https://github.com/programordie2)
 
 ## I'm learning
-[![Learning](https://skillicons.dev/icons?i=rust,nextjs,react,unity,cpp,tensorflow)](https://github.com/programordie2)
+[![Learning](https://skillicons.dev/icons?i=rust,unity,cpp,tensorflow)](https://github.com/programordie2)
 
 ## Databases
 [![Learning](https://skillicons.dev/icons?i=postgres,mongodb,redis,sequelize)](https://github.com/programordie2)
